@@ -1,0 +1,74 @@
+[
+  {
+    "name" : "baked beans",
+    "price" : 0.40,
+    "image" : "https://raw.githubusercontent.com/mdn/learning-area/master/javascript/apis/fetching-data/can-store/images/beans.jpg",
+    "type" : "vegetables"
+  },
+  {
+    "name" : "hot dogs",
+    "price" : 1.99,
+    "image" : "https://raw.githubusercontent.com/mdn/learning-area/master/javascript/apis/fetching-data/can-store/images/hotdogs.jpg",
+    "type" : "meat"
+  },
+  {
+    "name" : "spam",
+    "price" : 2.85,
+    "image" : "https://raw.githubusercontent.com/mdn/learning-area/master/javascript/apis/fetching-data/can-store/images/spam.jpg",
+    "type" : "meat"
+  },
+  {
+    "name" : "refried beans",
+    "price" : 0.99,
+    "image" : "https://raw.githubusercontent.com/mdn/learning-area/master/javascript/apis/fetching-data/can-store/images/refried.jpg",
+    "type" : "vegetables"
+  },
+  {
+    "name" : "kidney beans",
+    "price" : 0.58,
+    "image" : "https://raw.githubusercontent.com/mdn/learning-area/master/javascript/apis/fetching-data/can-store/images/kidney.jpg",
+    "type" : "vegetables"
+  },
+  {
+    "name" : "garden peas",
+    "price" : 0.52,
+    "image" : "https://raw.githubusercontent.com/mdn/learning-area/master/javascript/apis/fetching-data/can-store/images/gardenpeas.jpg",
+    "type" : "vegetables"
+  },
+  {
+    "name" : "mushy peas",
+    "price" : 0.58,
+    "image" : "https://raw.githubusercontent.com/mdn/learning-area/master/javascript/apis/fetching-data/can-store/images/mushypeas.jpg",
+    "type" : "vegetables"
+  },
+  {
+    "name" : "corned beef",
+    "price" : 2.39,
+    "image" : "https://raw.githubusercontent.com/mdn/learning-area/master/javascript/apis/fetching-data/can-store/images/cornedbeef.jpg",
+    "type" : "meat"
+  },
+  {
+    "name" : "tomato soup",
+    "price" : 1.40,
+    "image" : "https://raw.githubusercontent.com/mdn/learning-area/master/javascript/apis/fetching-data/can-store/images/tomatosoup.jpg",
+    "type" : "soup"
+  },
+  {
+    "name" : "chopped tomatoes",
+    "price" : 0.45,
+    "image" : "https://raw.githubusercontent.com/mdn/learning-area/master/javascript/apis/fetching-data/can-store/images/tomato.jpg",
+    "type" : "vegetables"
+  },
+  {
+    "name" : "chicken noodle soup",
+    "price" : 1.89,
+    "image" : "https://raw.githubusercontent.com/mdn/learning-area/master/javascript/apis/fetching-data/can-store/images/chickennoodle.jpg",
+    "type" : "soup"
+  },
+  {
+    "name" : "carrot and coriander soup",
+    "price" : 1.49,
+    "image" : "https://raw.githubusercontent.com/mdn/learning-area/master/javascript/apis/fetching-data/can-store/images/carrotcoriander.jpg",
+    "type" : "soup"
+  }
+]
